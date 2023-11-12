@@ -6,7 +6,7 @@ function Navbar() {
       <p className="text-lg">Ramadhan Rizqi Saputra</p>
       <div className="flex gap-8 nav-menu">
         <a href="/">Home</a>
-        <a href="/">Work</a>
+        <a href="/work">Work</a>
         <a href="/">About</a>
         <a href="/">Contact</a>
       </div>

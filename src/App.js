@@ -23,9 +23,9 @@ function App() {
         <img
           src={fotoku}
           alt="img"
-          width={250}
-          height={200}
-          className="rounded-xl p-2"
+          width={350}
+          height={400}
+          className="rounded-2xl p-2"
         />
       </div>
     </div>
